@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948324343967",
+    "project_id": "kos2-4f0ea",
+    "storage_bucket": "kos2-4f0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948324343967:android:2478efb9b69ce9a60582aa",
+        "android_client_info": {
+          "package_name": "com.ukdw.ac.id.aplikasikos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948324343967-5cv5eg888ibpo97qnntj096j4lq8gr7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgFEsYnWKyuvqfooSJDiW3MP5CaDHJF6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948324343967-5cv5eg888ibpo97qnntj096j4lq8gr7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
